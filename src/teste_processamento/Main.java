@@ -12,6 +12,7 @@ public class Main {
 		int code = 5290;
 		char gender = 'F';
 		
+		
 		double price1 = 2100.0;
 		double price2 = 650.50;
 		double measure = 53.234567;
